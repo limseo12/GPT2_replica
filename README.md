@@ -1,2 +1,1 @@
-# SP_1
-TTS+STT+GPT+VH
+# 논문 구현 2번째
